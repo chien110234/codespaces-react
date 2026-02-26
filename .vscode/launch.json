@@ -3,6 +3,7 @@
   "configurations": [
     
 
+
     {
       "name": "Run application",
       "type": "node",
